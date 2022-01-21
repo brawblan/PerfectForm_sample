@@ -1,4 +1,5 @@
 # PerfectForm_sample
+It is not everything I have written, but I believe this code is a good representation of my contributions to the app. 
 
 ## Product
 This product is built as a Mobile Progressive Web App and Admin Panel Website (pwa in the future). It is a Fitness Marketplace to buy/sell Exercise Plans.
@@ -12,3 +13,5 @@ This product is built as a Mobile Progressive Web App and Admin Panel Website (p
   - TailwindCSS
   - Paw API tool
   - Webstorm/VS Code
+
+*This code used with permission*
